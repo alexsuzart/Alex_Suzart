@@ -18,7 +18,7 @@ Este projeto tem como objetivo **analisar grandes quantidades de dados do IBGE**
 
 ## Exemplos de Gráficos
   1. **Base Populacional por Idade no Brasil Em 2025**
-     ![Base Populacional por Idade no Brasil Em 2025](Grafico1.png)
+     ![Base Populacional por Idade no Brasil Em 2025](analise20%dados20%IBGE/Grafico1.png)
   2. **Porcentagem Populacional entre mulher e homem no Brasil Em 2025**
      ![Porcentagem Populacional entre mulher e homem no Brasil Em 2025](Grafico2.png)
   
