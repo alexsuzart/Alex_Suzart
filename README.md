@@ -18,7 +18,8 @@ Este projeto tem como objetivo **analisar grandes quantidades de dados do IBGE**
 
 ## Exemplos de Gráficos
 1. **Base Populacional de Sexo por Idade no Brasil Em 2025**
+   - O Gráfico 1 mostra a estimativa da população brasileira por idade em 2025. A principal relevância desse resultado é indicar que a população está envelhecendo. Isso significa que há menos jovens e mais pessoas em faixas etárias mais altas, o que reflete mudanças importantes na sociedade, como a queda da natalidade e o aumento da expectativa de vida. Essa tendência traz impactos para áreas como saúde, previdência e mercado de trabalho, já que o Brasil precisa se preparar para atender uma população cada vez mais madura.
   !["Base Populacional de Sexo por Idade no Brasil Em 2025"](analise_dados_IBGE/Grafico1.png)
-2. **Pocentagem Populacional no Brasil Em 2025**
+3. **Pocentagem Populacional no Brasil Em 2025**
   ![Pocentagem Populacional no Brasil Em 2025](analise_dados_IBGE/Grafico2.png)
 ﻿
