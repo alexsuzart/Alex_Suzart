@@ -54,5 +54,5 @@ Este projeto tem como objetivo **analisar grandes quantidades de dados do IBGE**
 ﻿
 ## Como executar
   - ```bash
-    git clone 
+    git clone https://github.com/alexsuzart/Alex_Suzart.git
     ```
