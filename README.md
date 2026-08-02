@@ -27,5 +27,16 @@ Este projeto tem como objetivo **analisar grandes quantidades de dados do IBGE**
 
 ## Como executar
   - ```bash
+    # clonar o repositório
     git clone https://github.com/alexsuzart/Alex_Suzart.git
+
+    # Criar e ativar ambiente virtual
+     python -m venv .venv
+      .venv\Scripts\activate
+
+    # Instalar dependência
+    pip install -r requirements.txt
+
+    # Executar script principal
+    python main.py
     ```
