@@ -20,5 +20,5 @@ Este projeto tem como objetivo **analisar grandes quantidades de dados do IBGE**
 1. **Base Populacional de Sexo por Idade no Brasil Em 2025**
   !["Base Populacional de Sexo por Idade no Brasil Em 2025"](analise_dados_IBGE/Grafico1.png)
 2. **Pocentagem Populacional no Brasil Em 2025**
-  ![Pocentagem Populacional no Brasil Em 2025](Grafico2.png)
+  ![Pocentagem Populacional no Brasil Em 2025](analise_dados_IBGE/Grafico2.png)
 ﻿
